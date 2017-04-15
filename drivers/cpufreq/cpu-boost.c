@@ -244,7 +244,7 @@ static struct notifier_block boost_migration_nb = {
 
 static void do_input_boost(struct work_struct *work)
 {
-	unsigned int i, ret, freq;
+	unsigned int i, ret;
 	struct cpu_sync *i_sync_info;
 	struct cpufreq_policy policy;
 
