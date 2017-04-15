@@ -104,3 +104,4 @@ zipping/*
 compile.log
 product_info
 *.reactor.*
+build.sh
