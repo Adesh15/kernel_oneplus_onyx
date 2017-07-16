@@ -103,4 +103,6 @@ build_test.sh
 zipping/*
 compile.log
 product_info
-*.reactor.*
+*.Feather.*
+*.zip
+/zipping/onyx/zImage
